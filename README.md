@@ -23,3 +23,15 @@ End-to-end analytics project for an e-commerce dataset using SQL and Power BI.
 - Average Order Value
 - On-Time Delivery %
 - Customer Satisfaction Metrics
+
+## Power BI Report File
+
+The complete Power BI report file is included in this repository:
+
+📄 `powerbi/ecommerce_analytics_dashboard.pbix`
+
+This file contains:
+- Star schema data model (facts & dimensions)
+- DAX measures for revenue, delivery, and customer insights
+- Interactive dashboards used for business reporting
+
